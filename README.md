@@ -42,3 +42,7 @@ tailwind.config.js
 ✨ Acknowledgements
 Icons: https://react-icons.github.io/react-icons/
 Image Logo: https://companieslogo.com/
+
+## 🔗 Live Demo
+https://react-homepage-seven.vercel.app/
+
